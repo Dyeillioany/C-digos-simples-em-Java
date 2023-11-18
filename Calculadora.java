@@ -8,7 +8,7 @@ public class Calculadora {
         int num1 = sc.nextInt();
         System.out.println("Digite o segundo número: ");
         int num2 = sc.nextInt();
-        sc.nextLine(); // Consumir a nova linha após a entrada de inteiros
+        sc.nextLine(); 
         System.out.println("Escolha uma das operações: +, -, *, /");
         String operador = sc.nextLine();
         int resultado = 0;
