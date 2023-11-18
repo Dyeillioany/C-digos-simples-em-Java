@@ -1,0 +1,21 @@
+no usages
+
+public class Main {
+
+     public static void main(String[] args) {
+         int idade = 10; // inserir variavel no java: int, boolean...
+         char diaSemana = 'a';
+         String nome = "Fulana de Tal"
+         String email;
+         email = "testegmail.com";
+
+         system.out.println("Ola" + nome + "seu email é" + email);
+          
+
+     
+
+ 
+
+    }
+
+}
